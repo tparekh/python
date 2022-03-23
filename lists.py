@@ -1,0 +1,1 @@
+vegan_no_nos = ['eggs', ]
